@@ -1,6 +1,6 @@
 package com.blogapp.controller;
 
-import com.blogapp.Service.HealthService;
+import com.blogapp.service.HealthService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

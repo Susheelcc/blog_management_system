@@ -1,0 +1,4 @@
+package com.blogapp.entity;
+
+public class User {
+}
